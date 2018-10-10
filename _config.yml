@@ -4,7 +4,7 @@ email: your-email@domain.com
 url: https://ajaychhimpa1.github.io
 description: "Ajay Kumar Chhimpa, Software developer, Machine Learning and Natural Language Processing enthusiast."
 keywords: "Ajay Kumar Chhimpa,Software developer,India,Machine Learning enthusiast,Natural Language Processing enthusiast"
-skills: "Software developer, Machine Learning and Natural Language Processing enthusiast"
+skills: "Software Engineer, Machine Learning and Natural Language Processing enthusiast"
 meta_author: Chhimpa Ajay
 
 # Google webmaster tools
@@ -48,7 +48,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Hyderabad, India
+  - line: Bangalore, India
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
